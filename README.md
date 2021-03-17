@@ -36,4 +36,5 @@ type your first number: E
 type your second number: 0
 ====================
 The result is E
-====================```
+====================
+```
